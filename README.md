@@ -20,7 +20,11 @@ dashboards that make data easy to read.
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### 📂 Featured project
+### 📂 Featured projects
+**[Excel Report Automation](https://github.com/Sossa300/excel-report-automation)** – turns a folder of
+messy Excel/CSV exports into one clean, formatted Excel report with pivot tables and charts.
+Command line tool plus Streamlit web UI, built with pandas and openpyxl, tested with pytest.
+
 **[ICT Analysis Tool](https://github.com/Sossa300/ict-analysis-tool)** – multi-timeframe market
 analysis with a Streamlit dashboard, interactive Plotly charts, backtesting of 27 methods and
 154 automated tests.
