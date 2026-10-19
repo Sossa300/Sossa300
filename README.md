@@ -24,6 +24,7 @@ dashboards that make data easy to read.
 **[Excel Report Automation](https://github.com/Sossa300/excel-report-automation)** – turns a folder of
 messy Excel/CSV exports into one clean, formatted Excel report with pivot tables and charts.
 Command line tool plus Streamlit web UI, built with pandas and openpyxl, tested with pytest.
+▶ **[Live demo](https://sossa300-excel-report.streamlit.app/?demo=1)**
 
 **[ICT Analysis Tool](https://github.com/Sossa300/ict-analysis-tool)** – multi-timeframe market
 analysis with a Streamlit dashboard, interactive Plotly charts, backtesting of 27 methods and
