@@ -26,6 +26,11 @@ messy Excel/CSV exports into one clean, formatted Excel report with pivot tables
 Command line tool plus Streamlit web UI, built with pandas and openpyxl, tested with pytest.
 ▶ **[Live demo](https://sossa300-excel-report.streamlit.app/?demo=1)**
 
+**[Book Price Scraper](https://github.com/Sossa300/book-price-scraper)** – polite web scraper that
+collects prices, ratings, stock and categories across all pages of an online shop and exports
+them to CSV, Excel, JSON or SQLite. robots.txt, rate limiting, retries and logging built in,
+command line tool plus Streamlit dashboard, 60 tests on saved HTML (requests, BeautifulSoup, pandas).
+
 **[ICT Analysis Tool](https://github.com/Sossa300/ict-analysis-tool)** – multi-timeframe market
 analysis with a Streamlit dashboard, interactive Plotly charts, backtesting of 27 methods and
 154 automated tests.
