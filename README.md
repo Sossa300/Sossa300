@@ -42,6 +42,9 @@ analysis with a Streamlit dashboard, interactive Plotly charts, backtesting of 2
 154 automated tests.
 
 ### 📫 Contact
-Open an issue in one of my repositories or message me on GitHub.
+[![Hire me on Fiverr](https://img.shields.io/badge/Hire_me_on-Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/sossa300)
+
+Need a Python script, a web scraper or a bot? Hire me on **[Fiverr](https://www.fiverr.com/sossa300)**.
+For questions about my projects, open an issue in one of my repositories.
 
 🇩🇪 I speak German and English.
