@@ -18,6 +18,7 @@ dashboards that make data easy to read.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?logo=discord&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -32,6 +33,11 @@ Command line tool plus Streamlit web UI, built with pandas and openpyxl, tested 
 product pages and messages you when a price drops, an item is back in stock or your target price
 is reached. Chat commands, scheduled checks, SQLite storage, token kept in `.env`, 85 tests
 without network (python-telegram-bot).
+
+**[Discord Community Bot](https://github.com/Sossa300/discord-community-bot)** – Discord bot with
+slash commands for community servers: reminders, polls with buttons, self-assignable roles,
+welcome messages and moderation. SQLite storage, buttons that survive restarts, 134 tests
+without network (discord.py).
 
 **[Book Price Scraper](https://github.com/Sossa300/book-price-scraper)** – polite web scraper that
 collects prices, ratings and stock across all pages of a shop and exports them to CSV, Excel,
